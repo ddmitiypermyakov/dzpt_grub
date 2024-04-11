@@ -38,8 +38,7 @@ Vagrant.configure("2") do |config|
           
 
 						box.vm.provision "shell", path: "update.sh", name: "update"
-						#box.vm.provision "shell", path: "assembly.sh", name: "dz"
-						#box.vm.provision "shell", path: "dz_lvm.sh", name: "dz1"
+						box.vm.provision "shell", path: "rename_vg.sh", name: "rename_vg"
 			end
       end
 
