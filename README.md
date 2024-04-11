@@ -5,5 +5,5 @@
 
 update.sh - для обновления
 
-По итогу получена картинка при загрузке:
+По итогу получен пингвин при загрузке:
 ![image](https://github.com/ddmitiypermyakov/dzpt_grub/assets/73555501/4b3fc14b-a52f-4d35-8b2a-68cea9014776)
